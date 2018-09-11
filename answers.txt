@@ -5,24 +5,32 @@
 # -----------------
 # Task 1 Answer
 # -----------------
+mv maa162 ma162
 
 # -----------------
 # Task 2 Answer
 # -----------------
+rm pol341
 
 # -----------------
 # Task 3 Answer
 # -----------------
+mv ma261 /homes/sharm326/cs193lab2/purdue\ classes/math
 
 # -----------------
 # Task 4 Answer
 # -----------------
+mkdir purdue\ professors
+mkdir computer\ science\ professors
 
 # -----------------
 # Task 5 Answer
 # -----------------
+Professor\ Comer /homes/sharm326/cs193lab2/purdue\ professors/computer\ science\ professors
+Professor\ Dunsmore /homes/sharm326/cs193lab2/purdue\ professors/computer\ science\ professors
+
 
 # -----------------
 # Task 6 Answer
 # ----------------
-
+ls -R
